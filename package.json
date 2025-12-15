@@ -1,0 +1,26 @@
+{
+  "name": "hypatia.c",
+  "version": "2.0.0",
+  "description": "A header-only, pure-C math library for 2D/3D graphics (matrix, vector, quaternion) Seeks to be close to C89/C90 compliant for portability. It's like a BLAS, but easier to use; Darryl T. Agostinelli (2015).",
+  "keywords": [
+    "c",
+    "library",
+    "math",
+    "graphics",
+    "2d",
+    "3d",
+    "matrix",
+    "vector",
+    "quaternion"
+  ],
+  "homepage": "https://github.com/nodef/hypatia.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/hypatia.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/hypatia.c.git"
+  },
+  "license": "MIT",
+  "main": "hypatia.h"
+}
